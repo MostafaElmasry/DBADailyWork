@@ -1,1 +1,2 @@
 CheckSQLAgent
+Select * from Sys.Databases
